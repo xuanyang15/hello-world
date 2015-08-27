@@ -1,2 +1,6 @@
 # hello-world
-just a repository for testing
+=============
+
+Hi humans!
+
+Hubot here, 
